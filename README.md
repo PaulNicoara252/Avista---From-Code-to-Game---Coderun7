@@ -7,7 +7,6 @@
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Library](https://img.shields.io/badge/Graphics-SDL3-1E90FF?style=for-the-badge)
-![Math](https://img.shields.io/badge/Math-GLM-FF6F00?style=for-the-badge)
 ![Difficulty](https://img.shields.io/badge/Task-Hard%20Mode-DC143C?style=for-the-badge)
 ![Event](https://img.shields.io/badge/Event-CodeRun7%20%40%20TUCN-2E8B57?style=for-the-badge)
 
@@ -17,7 +16,7 @@
 
 ## 📖 Overview
 
-Inspired by classic arcade vertical scrolling shooters such as Namco's *Xevious* (1982), Jaleco's *Exerion*, and Epic MegaGames' *Tyrian 2000* (1999), this project is a 2D arcade shooter built from scratch in **C/C++** using **SDL3** and **GLM**.
+Inspired by classic arcade vertical scrolling shooters such as Namco's *Xevious* (1982), Jaleco's *Exerion*, and Epic MegaGames' *Tyrian 2000* (1999), this project is a 2D arcade shooter built from scratch in **C/C++** using **SDL3**.
 
 Developed for the **Hard Task** track of **CodeRun7**, the game combines inertial ship physics, multi-angle enemy projectile spreads, slice-based dynamic wave spawning, and a kinetic **Repulsor** defense mechanic—all engineered with center-relative, resolution-independent geometry so the game runs smoothly and indefinitely regardless of window resizing.
 
@@ -74,7 +73,6 @@ Developed for the **Hard Task** track of **CodeRun7**, the game combines inertia
 
 - **Language:** C++ (C++17 or newer)
 - **Windowing, Input & 2D Rendering:** [SDL3](https://www.libsdl.org/)
-- **Vector Math & Angle Rotations:** [GLM (OpenGL Mathematics)](https://github.com/g-truc/glm)
 - **Build Systems Supported:** CMake, Visual Studio 2022 (MSVC), CLion (MinGW / macOS), Xcode
 
 ---
@@ -82,7 +80,7 @@ Developed for the **Hard Task** track of **CodeRun7**, the game combines inertia
 ## 🚀 Getting Started
 
 ### Prerequisites
-Ensure you have a C++ compiler along with **SDL3** and **GLM** installed or bundled in your project dependencies directory.
+Ensure you have a C++ compiler along with **SDL3** and installed or bundled in your project dependencies directory.
 
 ### Building with CMake (Windows / Linux / macOS)
 ```bash
@@ -99,7 +97,7 @@ cmake --build build --config Release
 Building with Visual Studio 2022 / CLion
 Open the provided .sln (Visual Studio) or CMakeLists.txt (CLion).
 
-Verify that the include/library paths for SDL3 and GLM match your local environment.
+Verify that the include/library paths for SDL3 match your local environment.
 
 Build and run in Release or Debug mode.
 
