@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Retro Vertical Scrolling Shooter — SDL3
+#   Vertical Scrolling Shooter 2D Game - From Code to Game — SDL3
 
 **CodeRun7 (November 2026) — Hard Task Implementation**  
 *Organized by BEST Cluj-Napoca & Technical University of Cluj-Napoca (TUCN)*
