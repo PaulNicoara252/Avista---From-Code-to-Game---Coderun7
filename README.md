@@ -103,14 +103,6 @@ Verify that the include/library paths for SDL3 and GLM match your local environm
 
 Build and run in Release or Debug mode.
 
-📂 Project Structure
-Plaintext
-├── src/
-│   └── main.cpp            # Core game loop, SDL3 rendering, inertial physics & collision logic
-├── assets/                 # Scrolling background textures & README demo screenshots
-├── include/                # SDL3 & GLM headers (if bundled locally)
-├── CMakeLists.txt          # Cross-platform build configuration
-└── README.md               # Project documentation
 🎓 Acknowledgments
 Event: CodeRun7 — From Code to Game: Beginning 2D Game Programming with SDL3 (November 14, 2026)
 
