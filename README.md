@@ -25,14 +25,6 @@ Developed for the **Hard Task** track of **CodeRun7**, the game combines inertia
 
 ## 🎮 Gameplay Preview
 
-> *Tip: Replace the paths below with your actual screenshots or a recorded `.gif` of your run.*
-
-<div align="center">
-  <img src="assets/gameplay_demo_1.png" alt="Gameplay - Wave & Spread Fire" width="45%" />
-    
-  <img src="assets/gameplay_demo_2.png" alt="Gameplay - Repulsor Defense" width="45%" />
-</div>
-
 ---
 
 ## ⚙️ Core Mechanics & Physics (Hard Mode)
